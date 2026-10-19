@@ -2,6 +2,9 @@
 
 A fast, responsive movie discovery app built with **HTML, CSS, vanilla JavaScript and Bootstrap 5**. Browse trending, now playing, popular, top rated and upcoming movies, search the TMDB catalogue, read details and ratings, and build your own watchlist.
 
+**Live demo:** <https://movie-app-roan-mu.vercel.app>  
+**Repository:** <https://github.com/3umrzidan23-tech/movie-app>
+
 > This product uses the TMDB API but is not endorsed or certified by TMDB.
 
 ## ✨ Features
