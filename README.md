@@ -5,6 +5,10 @@ A fast, responsive movie discovery app built with **HTML, CSS, vanilla JavaScrip
 **Live demo:** <https://movie-app-roan-mu.vercel.app>  
 **Repository:** <https://github.com/3umrzidan23-tech/movie-app>
 
+<p align="center">
+  <img src="images/poster.png" alt="CineScope — movie discovery app poster" width="520">
+</p>
+
 > This product uses the TMDB API but is not endorsed or certified by TMDB.
 
 ## ✨ Features

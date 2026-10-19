@@ -6,3 +6,6 @@
 # Local-only development server and docs
 dev-server.js
 README.md
+
+# Poster / design sources (not part of the deployed app)
+design/
