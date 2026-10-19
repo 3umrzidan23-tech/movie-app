@@ -1,0 +1,8 @@
+# Never upload local secrets to Vercel
+.env
+.env.*
+!.env.example
+
+# Local-only development server and docs
+dev-server.js
+README.md
